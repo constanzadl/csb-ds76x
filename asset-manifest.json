@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://constanzadl.github.io/csb-ds76x/static/css/main.9b1431d8.chunk.css",
+    "main.js": "https://constanzadl.github.io/csb-ds76x/static/js/main.c5b5497d.chunk.js",
+    "main.js.map": "https://constanzadl.github.io/csb-ds76x/static/js/main.c5b5497d.chunk.js.map",
+    "runtime-main.js": "https://constanzadl.github.io/csb-ds76x/static/js/runtime-main.2c4ce69e.js",
+    "runtime-main.js.map": "https://constanzadl.github.io/csb-ds76x/static/js/runtime-main.2c4ce69e.js.map",
+    "static/js/2.ffd3e9df.chunk.js": "https://constanzadl.github.io/csb-ds76x/static/js/2.ffd3e9df.chunk.js",
+    "static/js/2.ffd3e9df.chunk.js.map": "https://constanzadl.github.io/csb-ds76x/static/js/2.ffd3e9df.chunk.js.map",
+    "index.html": "https://constanzadl.github.io/csb-ds76x/index.html",
+    "precache-manifest.6d61e26314c14df2848623f90f2f7d7f.js": "https://constanzadl.github.io/csb-ds76x/precache-manifest.6d61e26314c14df2848623f90f2f7d7f.js",
+    "service-worker.js": "https://constanzadl.github.io/csb-ds76x/service-worker.js",
+    "static/css/main.9b1431d8.chunk.css.map": "https://constanzadl.github.io/csb-ds76x/static/css/main.9b1431d8.chunk.css.map",
+    "static/js/2.ffd3e9df.chunk.js.LICENSE.txt": "https://constanzadl.github.io/csb-ds76x/static/js/2.ffd3e9df.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c4ce69e.js",
+    "static/js/2.ffd3e9df.chunk.js",
+    "static/css/main.9b1431d8.chunk.css",
+    "static/js/main.c5b5497d.chunk.js"
+  ]
+}
